@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">calculus</string>
+    <string name="cargando">Cargando, inicia en:</string>
+    <string name="por">Por Jorge Adrian Lira Lopez</string>
 </resources>
